@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "tp-project-language-learner-app-co1-and-co2-components",
+    "slug": "snack-0e036a81-ce3a-4908-990a-f1986a534905",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "CODE CHANGED AND UPDATED BY JAYANTH(TP PROJECT CODE)"
+  }
+}
